@@ -1,5 +1,5 @@
 # FLO Verisetinde RFM Analizi ile Müşteri Segmentasyonu
-Miuul eğitimi
+
 
 ## veri seti hakkında
 Veri seti Flo’dan son alışverişlerini 2020 - 2021 yıllarında OmniChannel (hem online hem offline alışveriş yapan) olarak yapan müşterilerin geçmiş alışveriş davranışlarından elde edilen bilgilerden oluşmaktadır.
